@@ -67,8 +67,8 @@ h1{
 #kolon{
     text-align: center;
     color: #fb4353;
-    font-size: 4rem;
-    margin-top: 5%;
+    font-size: 6rem;
+    margin-top: 2%;
 }
 
 .playerteam1{
@@ -97,12 +97,12 @@ h1{
 
 #table1{
     width: 35%;
-    margin-top: -15%;
+    margin-top: -10%;
 }
 
 #table2{
     width: 35%;
     margin-left: 58%;
-    margin-top: -10%;
+    margin-top: -20%;
 }
 
