@@ -34,7 +34,7 @@ h1{
 #boks1{
     height: 130px;
     text-align: center;
-    background-color: blue;
+    background-color: #183c40;
     width: 8vw;
 }
 
@@ -103,6 +103,6 @@ h1{
 #table2{
     width: 35%;
     margin-left: 58%;
-    margin-top: -41.5%;
+    margin-top: -43%;
 }
 
